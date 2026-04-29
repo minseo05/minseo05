@@ -1,4 +1,10 @@
-## Hi there 👋
+## 프로필
+
+- 직업 : 대학생
+- 대학 : 한국외국어대학교
+- 전공 : 컴퓨터공학부
+- 관심분야 : AI, 게임
+- 희망 진로 : AI 모델링, 분석
 
 <!--
 **minseo05/minseo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
